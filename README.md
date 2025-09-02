@@ -183,7 +183,7 @@ export OPENAI_API_KEY="your-api-key"
 
 ## 👤 作者 | Author
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/your-username)
+- **leslie** - *Initial work* - [YourGitHub](https://github.com/leslie89757)
 
 ## 🙏 致谢 | Acknowledgments
 
